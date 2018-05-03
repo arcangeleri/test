@@ -1,0 +1,17 @@
+[
+	{
+		"name": "System.Dealer.WelcomeMessage",
+		"korean": "홀덤포커에 어서오세요. 자리에 앉으시면 게임에 참여 할 수 있습니다.",
+		"english": "System.Dealer.WelcomeMessage"
+	},
+	{
+		"name": "System.Dealer.WaitMessage",
+		"korean": "다른 참가자를 기다리고 있습니다. 잠시만 기다려 주세요.",
+		"english": "System.Dealer.WaitMessage"
+	},
+	{
+		"name": "System.Dealer.SorryMessageNoSeat",
+		"korean": "죄송합니다. 빈자리가 없어 게임에 참여할 수 없습니다.",
+		"english": "System.Dealer.SorryMessageNoSeat"
+	}
+]
